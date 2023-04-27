@@ -1,0 +1,1166 @@
+1 class: antelope     prob: 0.428 index: 0
+2 class: antelope     prob: 0.588 index: 0
+3 class: sparrow      prob: 0.536 index: 77
+4 class: antelope     prob: 0.999 index: 0
+5 class: antelope     prob: 0.848 index: 0
+6 class: hyena        prob: 0.521 index: 40
+7 class: hare         prob: 0.534 index: 34
+8 class: squid        prob: 0.477 index: 78
+9 class: antelope     prob: 1.0 index: 0
+10 class: kangaroo     prob: 0.25 index: 42
+11 class: antelope     prob: 0.782 index: 0
+Counter({0: 6, 77: 1, 40: 1, 34: 1, 78: 1, 42: 1})
+antelope 正确率:0.545
+1 class: wombat       prob: 0.298 index: 87
+2 class: hare         prob: 0.749 index: 34
+3 class: antelope     prob: 0.374 index: 0
+4 class: kangaroo     prob: 0.329 index: 42
+5 class: dragonfly    prob: 0.947 index: 21
+6 class: hare         prob: 0.77 index: 34
+7 class: squid        prob: 0.372 index: 78
+8 class: boar         prob: 0.311 index: 7
+9 class: wombat       prob: 0.46 index: 87
+10 class: cockroach    prob: 0.572 index: 12
+11 class: squid        prob: 0.234 index: 78
+Counter({87: 2, 34: 2, 78: 2, 0: 1, 42: 1, 21: 1, 7: 1, 12: 1})
+badger 正确率:0.0
+1 class: sparrow      prob: 0.21 index: 77
+2 class: mouse        prob: 0.636 index: 51
+3 class: bat          prob: 0.98 index: 2
+4 class: hummingbird   prob: 0.63 index: 39
+5 class: squid        prob: 0.241 index: 78
+6 class: elephant     prob: 0.299 index: 24
+7 class: kangaroo     prob: 0.19 index: 42
+8 class: bat          prob: 0.861 index: 2
+9 class: bat          prob: 0.633 index: 2
+10 class: sandpiper    prob: 0.475 index: 71
+11 class: lizard       prob: 0.732 index: 47
+Counter({2: 3, 77: 1, 51: 1, 39: 1, 78: 1, 24: 1, 42: 1, 71: 1, 47: 1})
+bat 正确率:0.273
+1 class: bear         prob: 0.494 index: 3
+2 class: bison        prob: 0.528 index: 6
+3 class: seal         prob: 0.944 index: 73
+4 class: hare         prob: 0.555 index: 34
+5 class: moth         prob: 0.244 index: 50
+6 class: seal         prob: 0.573 index: 73
+7 class: squid        prob: 0.325 index: 78
+8 class: lizard       prob: 0.421 index: 47
+9 class: donkey       prob: 0.677 index: 20
+10 class: lizard       prob: 0.334 index: 47
+11 class: rat          prob: 0.266 index: 68
+Counter({73: 2, 47: 2, 3: 1, 6: 1, 34: 1, 50: 1, 78: 1, 20: 1, 68: 1})
+bear 正确率:0.0909
+1 class: lizard       prob: 0.89 index: 47
+2 class: turtle       prob: 0.771 index: 84
+3 class: sparrow      prob: 0.44 index: 77
+4 class: lizard       prob: 0.776 index: 47
+5 class: hummingbird   prob: 0.524 index: 39
+6 class: porcupine    prob: 0.324 index: 65
+7 class: sparrow      prob: 0.318 index: 77
+8 class: hummingbird   prob: 0.898 index: 39
+9 class: squid        prob: 0.599 index: 78
+10 class: beetle       prob: 0.525 index: 5
+11 class: lizard       prob: 0.804 index: 47
+Counter({47: 3, 77: 2, 39: 2, 84: 1, 65: 1, 78: 1, 5: 1})
+bee 正确率:0.0
+1 class: beetle       prob: 0.999 index: 5
+2 class: squid        prob: 0.996 index: 78
+3 class: beetle       prob: 0.884 index: 5
+4 class: squid        prob: 0.576 index: 78
+5 class: mosquito     prob: 0.668 index: 49
+6 class: fly          prob: 0.475 index: 26
+7 class: beetle       prob: 0.391 index: 5
+8 class: fly          prob: 0.58 index: 26
+9 class: turtle       prob: 0.548 index: 84
+10 class: lizard       prob: 0.21 index: 47
+11 class: hare         prob: 0.91 index: 34
+Counter({5: 3, 78: 2, 26: 2, 49: 1, 84: 1, 47: 1, 34: 1})
+beetle 正确率:0.273
+1 class: kangaroo     prob: 0.554 index: 42
+2 class: bison        prob: 0.967 index: 6
+3 class: elephant     prob: 0.529 index: 24
+4 class: kangaroo     prob: 0.817 index: 42
+5 class: ox           prob: 0.776 index: 57
+6 class: rhinoceros   prob: 0.339 index: 70
+7 class: kangaroo     prob: 0.755 index: 42
+8 class: hyena        prob: 0.904 index: 40
+9 class: kangaroo     prob: 0.438 index: 42
+10 class: elephant     prob: 0.493 index: 24
+Counter({42: 4, 24: 2, 6: 1, 57: 1, 70: 1, 40: 1})
+bison 正确率:0.1
+1 class: dragonfly    prob: 0.713 index: 21
+2 class: kangaroo     prob: 0.273 index: 42
+3 class: kangaroo     prob: 0.342 index: 42
+4 class: kangaroo     prob: 0.46 index: 42
+5 class: turtle       prob: 0.747 index: 84
+6 class: boar         prob: 0.957 index: 7
+7 class: squid        prob: 0.494 index: 78
+8 class: boar         prob: 1.0 index: 7
+9 class: boar         prob: 0.507 index: 7
+10 class: crow         prob: 0.447 index: 16
+11 class: elephant     prob: 0.433 index: 24
+Counter({42: 3, 7: 3, 21: 1, 84: 1, 78: 1, 16: 1, 24: 1})
+boar 正确率:0.273
+1 class: goldfish     prob: 0.455 index: 29
+2 class: butterfly    prob: 0.744 index: 8
+3 class: jellyfish    prob: 0.864 index: 41
+4 class: mouse        prob: 0.274 index: 51
+5 class: butterfly    prob: 0.647 index: 8
+6 class: butterfly    prob: 0.52 index: 8
+7 class: butterfly    prob: 0.42 index: 8
+8 class: crow         prob: 0.133 index: 16
+9 class: butterfly    prob: 0.553 index: 8
+10 class: moth         prob: 0.95 index: 50
+11 class: fly          prob: 0.98 index: 26
+Counter({8: 5, 29: 1, 41: 1, 51: 1, 16: 1, 50: 1, 26: 1})
+butterfly 正确率:0.455
+1 class: cat          prob: 1.0 index: 9
+2 class: cat          prob: 0.684 index: 9
+3 class: cat          prob: 0.99 index: 9
+4 class: cat          prob: 0.291 index: 9
+5 class: jellyfish    prob: 0.441 index: 41
+6 class: cat          prob: 0.959 index: 9
+7 class: cat          prob: 0.463 index: 9
+8 class: crab         prob: 0.819 index: 15
+9 class: cat          prob: 0.878 index: 9
+10 class: swan         prob: 0.244 index: 81
+11 class: grasshopper   prob: 0.359 index: 32
+Counter({9: 7, 41: 1, 15: 1, 81: 1, 32: 1})
+cat 正确率:0.636
+1 class: squid        prob: 0.563 index: 78
+2 class: fly          prob: 0.952 index: 26
+3 class: sparrow      prob: 0.551 index: 77
+4 class: caterpillar   prob: 0.87 index: 10
+5 class: swan         prob: 0.119 index: 81
+6 class: grasshopper   prob: 0.479 index: 32
+7 class: caterpillar   prob: 0.796 index: 10
+8 class: caterpillar   prob: 0.982 index: 10
+9 class: octopus      prob: 0.299 index: 52
+10 class: octopus      prob: 0.338 index: 52
+11 class: hare         prob: 0.466 index: 34
+Counter({10: 3, 52: 2, 78: 1, 26: 1, 77: 1, 81: 1, 32: 1, 34: 1})
+caterpillar 正确率:0.273
+1 class: pigeon       prob: 0.533 index: 64
+2 class: sparrow      prob: 0.996 index: 77
+3 class: sparrow      prob: 0.702 index: 77
+4 class: sandpiper    prob: 0.649 index: 71
+5 class: sparrow      prob: 0.985 index: 77
+6 class: orangutan    prob: 0.401 index: 54
+7 class: caterpillar   prob: 0.315 index: 10
+8 class: orangutan    prob: 0.461 index: 54
+9 class: jellyfish    prob: 0.456 index: 41
+10 class: sparrow      prob: 0.551 index: 77
+11 class: orangutan    prob: 0.996 index: 54
+Counter({77: 4, 54: 3, 64: 1, 71: 1, 10: 1, 41: 1})
+chimpanzee 正确率:0.0
+1 class: hare         prob: 0.781 index: 34
+2 class: squid        prob: 0.907 index: 78
+3 class: sparrow      prob: 0.504 index: 77
+4 class: cockroach    prob: 1.0 index: 12
+5 class: moth         prob: 0.708 index: 50
+6 class: squid        prob: 0.829 index: 78
+7 class: cockroach    prob: 0.771 index: 12
+8 class: beetle       prob: 0.608 index: 5
+9 class: sparrow      prob: 0.393 index: 77
+10 class: cockroach    prob: 0.996 index: 12
+11 class: caterpillar   prob: 0.648 index: 10
+Counter({12: 3, 78: 2, 77: 2, 34: 1, 50: 1, 5: 1, 10: 1})
+cockroach 正确率:0.273
+1 class: moth         prob: 0.962 index: 50
+2 class: goose        prob: 0.502 index: 30
+3 class: ox           prob: 0.786 index: 57
+4 class: cow          prob: 1.0 index: 13
+5 class: ox           prob: 0.864 index: 57
+6 class: sandpiper    prob: 0.325 index: 71
+7 class: squid        prob: 0.734 index: 78
+8 class: donkey       prob: 0.355 index: 20
+9 class: moth         prob: 0.686 index: 50
+10 class: hamster      prob: 0.771 index: 33
+11 class: ox           prob: 0.308 index: 57
+Counter({57: 3, 50: 2, 30: 1, 13: 1, 71: 1, 78: 1, 20: 1, 33: 1})
+cow 正确率:0.0909
+1 class: kangaroo     prob: 0.453 index: 42
+2 class: coyote       prob: 1.0 index: 14
+3 class: hare         prob: 0.911 index: 34
+4 class: antelope     prob: 0.987 index: 0
+5 class: coyote       prob: 0.377 index: 14
+6 class: hare         prob: 0.287 index: 34
+7 class: hare         prob: 1.0 index: 34
+8 class: coyote       prob: 0.494 index: 14
+Counter({14: 3, 34: 3, 42: 1, 0: 1})
+coyote 正确率:0.375
+1 class: crab         prob: 0.677 index: 15
+2 class: sandpiper    prob: 1.0 index: 71
+3 class: fly          prob: 0.703 index: 26
+4 class: squid        prob: 0.956 index: 78
+5 class: hare         prob: 0.827 index: 34
+6 class: squid        prob: 0.822 index: 78
+7 class: starfish     prob: 0.784 index: 80
+8 class: lizard       prob: 0.561 index: 47
+9 class: squid        prob: 0.41 index: 78
+10 class: hamster      prob: 0.603 index: 33
+11 class: lizard       prob: 0.214 index: 47
+Counter({78: 3, 47: 2, 15: 1, 71: 1, 26: 1, 34: 1, 80: 1, 33: 1})
+crab 正确率:0.0909
+1 class: sparrow      prob: 0.411 index: 77
+2 class: crow         prob: 0.446 index: 16
+3 class: squid        prob: 0.388 index: 78
+4 class: squid        prob: 0.431 index: 78
+5 class: duck         prob: 0.312 index: 22
+6 class: squid        prob: 0.643 index: 78
+7 class: sandpiper    prob: 0.142 index: 71
+8 class: crow         prob: 0.732 index: 16
+9 class: crow         prob: 0.382 index: 16
+10 class: turtle       prob: 0.175 index: 84
+11 class: grasshopper   prob: 0.509 index: 32
+Counter({16: 3, 78: 3, 77: 1, 22: 1, 71: 1, 84: 1, 32: 1})
+crow 正确率:0.273
+1 class: cat          prob: 0.62 index: 9
+2 class: sparrow      prob: 0.937 index: 77
+3 class: squid        prob: 0.499 index: 78
+4 class: rhinoceros   prob: 0.46 index: 70
+5 class: owl          prob: 0.265 index: 56
+6 class: hare         prob: 0.608 index: 34
+7 class: squid        prob: 0.87 index: 78
+8 class: hare         prob: 0.975 index: 34
+9 class: cockroach    prob: 0.749 index: 12
+10 class: sandpiper    prob: 0.728 index: 71
+11 class: ox           prob: 0.859 index: 57
+Counter({78: 2, 34: 2, 9: 1, 77: 1, 70: 1, 56: 1, 12: 1, 71: 1, 57: 1})
+deer 正确率:0.0
+1 class: kangaroo     prob: 0.656 index: 42
+2 class: cat          prob: 0.767 index: 9
+3 class: coyote       prob: 0.953 index: 14
+4 class: possum       prob: 0.241 index: 66
+5 class: dog          prob: 0.51 index: 18
+6 class: sparrow      prob: 0.999 index: 77
+7 class: dog          prob: 0.894 index: 18
+8 class: moth         prob: 0.366 index: 50
+9 class: dog          prob: 0.769 index: 18
+10 class: sparrow      prob: 0.407 index: 77
+11 class: hummingbird   prob: 0.207 index: 39
+Counter({18: 3, 77: 2, 42: 1, 9: 1, 14: 1, 66: 1, 50: 1, 39: 1})
+dog 正确率:0.273
+1 class: dolphin      prob: 0.639 index: 19
+2 class: turtle       prob: 0.808 index: 84
+3 class: dolphin      prob: 0.99 index: 19
+4 class: dolphin      prob: 0.674 index: 19
+5 class: shark        prob: 0.559 index: 74
+6 class: dolphin      prob: 0.932 index: 19
+7 class: dolphin      prob: 0.996 index: 19
+8 class: shark        prob: 0.88 index: 74
+9 class: dolphin      prob: 0.97 index: 19
+10 class: shark        prob: 0.852 index: 74
+11 class: dolphin      prob: 0.544 index: 19
+Counter({19: 7, 74: 3, 84: 1})
+dolphin 正确率:0.636
+1 class: octopus      prob: 0.366 index: 52
+2 class: donkey       prob: 0.946 index: 20
+3 class: donkey       prob: 0.991 index: 20
+4 class: squid        prob: 0.392 index: 78
+5 class: donkey       prob: 0.905 index: 20
+6 class: kangaroo     prob: 0.998 index: 42
+7 class: donkey       prob: 0.992 index: 20
+8 class: donkey       prob: 0.955 index: 20
+9 class: donkey       prob: 0.996 index: 20
+10 class: squid        prob: 0.296 index: 78
+11 class: donkey       prob: 0.989 index: 20
+Counter({20: 7, 78: 2, 52: 1, 42: 1})
+donkey 正确率:0.636
+1 class: dragonfly    prob: 1.0 index: 21
+2 class: caterpillar   prob: 0.519 index: 10
+3 class: grasshopper   prob: 0.582 index: 32
+4 class: dragonfly    prob: 0.938 index: 21
+5 class: dragonfly    prob: 1.0 index: 21
+6 class: dragonfly    prob: 1.0 index: 21
+7 class: dragonfly    prob: 0.989 index: 21
+8 class: turtle       prob: 0.413 index: 84
+9 class: dragonfly    prob: 0.791 index: 21
+10 class: dragonfly    prob: 0.743 index: 21
+11 class: fly          prob: 0.832 index: 26
+Counter({21: 7, 10: 1, 32: 1, 84: 1, 26: 1})
+dragonfly 正确率:0.636
+1 class: fly          prob: 0.941 index: 26
+2 class: duck         prob: 0.999 index: 22
+3 class: mosquito     prob: 0.957 index: 49
+4 class: duck         prob: 0.799 index: 22
+5 class: duck         prob: 1.0 index: 22
+6 class: squid        prob: 0.668 index: 78
+7 class: squid        prob: 0.52 index: 78
+8 class: squid        prob: 0.837 index: 78
+9 class: duck         prob: 0.962 index: 22
+10 class: squid        prob: 0.882 index: 78
+11 class: duck         prob: 0.962 index: 22
+Counter({22: 5, 78: 4, 26: 1, 49: 1})
+duck 正确率:0.455
+1 class: eagle        prob: 0.992 index: 23
+2 class: caterpillar   prob: 0.634 index: 10
+3 class: fly          prob: 0.712 index: 26
+4 class: octopus      prob: 0.193 index: 52
+5 class: sandpiper    prob: 0.438 index: 71
+6 class: jellyfish    prob: 0.84 index: 41
+7 class: moth         prob: 0.258 index: 50
+8 class: sparrow      prob: 0.865 index: 77
+9 class: sparrow      prob: 0.417 index: 77
+10 class: octopus      prob: 0.345 index: 52
+Counter({52: 2, 77: 2, 23: 1, 10: 1, 26: 1, 71: 1, 41: 1, 50: 1})
+eagle 正确率:0.1
+1 class: elephant     prob: 0.868 index: 24
+2 class: elephant     prob: 0.999 index: 24
+3 class: elephant     prob: 0.99 index: 24
+4 class: hare         prob: 0.467 index: 34
+5 class: elephant     prob: 1.0 index: 24
+6 class: elephant     prob: 0.944 index: 24
+7 class: elephant     prob: 0.975 index: 24
+8 class: elephant     prob: 0.984 index: 24
+9 class: elephant     prob: 0.6 index: 24
+10 class: squid        prob: 0.446 index: 78
+11 class: antelope     prob: 0.626 index: 0
+Counter({24: 8, 34: 1, 78: 1, 0: 1})
+elephant 正确率:0.727
+1 class: squid        prob: 0.976 index: 78
+2 class: moth         prob: 0.594 index: 50
+3 class: hamster      prob: 0.573 index: 33
+4 class: squid        prob: 0.629 index: 78
+5 class: flamingo     prob: 1.0 index: 25
+6 class: flamingo     prob: 0.988 index: 25
+7 class: flamingo     prob: 0.999 index: 25
+8 class: snake        prob: 0.549 index: 76
+9 class: moth         prob: 0.991 index: 50
+10 class: squid        prob: 0.72 index: 78
+11 class: swan         prob: 0.622 index: 81
+Counter({78: 3, 25: 3, 50: 2, 33: 1, 76: 1, 81: 1})
+flamingo 正确率:0.273
+1 class: fly          prob: 0.918 index: 26
+2 class: fly          prob: 1.0 index: 26
+3 class: lizard       prob: 0.984 index: 47
+4 class: jellyfish    prob: 0.511 index: 41
+5 class: fly          prob: 0.938 index: 26
+6 class: fly          prob: 0.313 index: 26
+7 class: fly          prob: 0.995 index: 26
+8 class: sparrow      prob: 0.648 index: 77
+9 class: fly          prob: 0.992 index: 26
+10 class: fly          prob: 0.74 index: 26
+11 class: fly          prob: 0.997 index: 26
+Counter({26: 8, 47: 1, 41: 1, 77: 1})
+fly 正确率:0.727
+1 class: hare         prob: 0.953 index: 34
+2 class: mouse        prob: 0.339 index: 51
+3 class: cat          prob: 0.638 index: 9
+4 class: hare         prob: 0.861 index: 34
+5 class: fox          prob: 0.999 index: 27
+6 class: possum       prob: 0.629 index: 66
+7 class: fox          prob: 0.984 index: 27
+8 class: fox          prob: 1.0 index: 27
+9 class: fox          prob: 0.922 index: 27
+10 class: rhinoceros   prob: 0.447 index: 70
+11 class: crow         prob: 0.458 index: 16
+Counter({27: 4, 34: 2, 51: 1, 9: 1, 66: 1, 70: 1, 16: 1})
+fox 正确率:0.364
+1 class: moth         prob: 0.548 index: 50
+2 class: sandpiper    prob: 0.977 index: 71
+3 class: turtle       prob: 0.249 index: 84
+4 class: kangaroo     prob: 0.352 index: 42
+5 class: goat         prob: 0.988 index: 28
+6 class: sandpiper    prob: 0.639 index: 71
+7 class: squid        prob: 0.78 index: 78
+8 class: kangaroo     prob: 0.978 index: 42
+9 class: rhinoceros   prob: 0.714 index: 70
+10 class: lizard       prob: 0.903 index: 47
+11 class: kangaroo     prob: 0.42 index: 42
+Counter({42: 3, 71: 2, 50: 1, 84: 1, 28: 1, 78: 1, 70: 1, 47: 1})
+goat 正确率:0.0909
+1 class: jellyfish    prob: 0.826 index: 41
+2 class: dragonfly    prob: 0.581 index: 21
+3 class: octopus      prob: 0.28 index: 52
+4 class: squid        prob: 0.739 index: 78
+5 class: goldfish     prob: 0.344 index: 29
+6 class: goldfish     prob: 0.989 index: 29
+7 class: caterpillar   prob: 0.336 index: 10
+8 class: lizard       prob: 0.535 index: 47
+9 class: goldfish     prob: 0.971 index: 29
+10 class: hummingbird   prob: 0.435 index: 39
+11 class: goldfish     prob: 0.755 index: 29
+Counter({29: 4, 41: 1, 21: 1, 52: 1, 78: 1, 10: 1, 47: 1, 39: 1})
+goldfish 正确率:0.364
+1 class: pelecaniformes   prob: 0.897 index: 61
+2 class: sparrow      prob: 0.423 index: 77
+3 class: duck         prob: 0.773 index: 22
+4 class: goose        prob: 0.557 index: 30
+5 class: sparrow      prob: 0.732 index: 77
+6 class: goose        prob: 0.364 index: 30
+7 class: hummingbird   prob: 0.797 index: 39
+8 class: hippopotamus   prob: 0.364 index: 36
+9 class: duck         prob: 0.613 index: 22
+10 class: goose        prob: 0.905 index: 30
+11 class: pigeon       prob: 0.932 index: 64
+Counter({30: 3, 77: 2, 22: 2, 61: 1, 39: 1, 36: 1, 64: 1})
+goose 正确率:0.273
+1 class: elephant     prob: 0.845 index: 24
+2 class: lizard       prob: 0.557 index: 47
+3 class: fly          prob: 0.22 index: 26
+4 class: orangutan    prob: 0.413 index: 54
+5 class: hippopotamus   prob: 0.427 index: 36
+6 class: gorilla      prob: 0.834 index: 31
+7 class: cat          prob: 0.683 index: 9
+8 class: orangutan    prob: 0.52 index: 54
+9 class: orangutan    prob: 0.429 index: 54
+10 class: donkey       prob: 0.91 index: 20
+Counter({54: 3, 24: 1, 47: 1, 26: 1, 36: 1, 31: 1, 9: 1, 20: 1})
+gorilla 正确率:0.1
+1 class: dragonfly    prob: 0.995 index: 21
+2 class: dragonfly    prob: 0.853 index: 21
+3 class: grasshopper   prob: 0.512 index: 32
+4 class: antelope     prob: 0.783 index: 0
+5 class: grasshopper   prob: 0.92 index: 32
+6 class: badger       prob: 0.153 index: 1
+7 class: bee          prob: 0.344 index: 4
+8 class: cockroach    prob: 0.64 index: 12
+9 class: grasshopper   prob: 0.707 index: 32
+10 class: caterpillar   prob: 0.627 index: 10
+11 class: cockroach    prob: 0.624 index: 12
+Counter({32: 3, 21: 2, 12: 2, 0: 1, 1: 1, 4: 1, 10: 1})
+grasshopper 正确率:0.273
+1 class: hamster      prob: 0.824 index: 33
+2 class: hamster      prob: 0.832 index: 33
+3 class: hamster      prob: 0.528 index: 33
+4 class: hamster      prob: 0.999 index: 33
+5 class: hamster      prob: 0.666 index: 33
+6 class: hamster      prob: 1.0 index: 33
+7 class: hamster      prob: 0.712 index: 33
+8 class: hamster      prob: 0.995 index: 33
+9 class: hamster      prob: 0.528 index: 33
+10 class: hamster      prob: 0.997 index: 33
+11 class: hamster      prob: 0.966 index: 33
+Counter({33: 11})
+hamster 正确率:1.0
+1 class: hare         prob: 0.731 index: 34
+2 class: hare         prob: 0.996 index: 34
+3 class: hare         prob: 0.995 index: 34
+4 class: hare         prob: 0.955 index: 34
+5 class: hare         prob: 0.348 index: 34
+6 class: hare         prob: 0.999 index: 34
+7 class: porcupine    prob: 0.237 index: 65
+8 class: hamster      prob: 0.484 index: 33
+9 class: dragonfly    prob: 0.657 index: 21
+10 class: hare         prob: 1.0 index: 34
+11 class: sandpiper    prob: 0.63 index: 71
+Counter({34: 7, 65: 1, 33: 1, 21: 1, 71: 1})
+hare 正确率:0.636
+1 class: hedgehog     prob: 0.994 index: 35
+2 class: owl          prob: 0.553 index: 56
+3 class: hedgehog     prob: 0.919 index: 35
+4 class: hedgehog     prob: 0.998 index: 35
+5 class: goose        prob: 0.515 index: 30
+6 class: koala        prob: 0.871 index: 43
+7 class: hedgehog     prob: 1.0 index: 35
+8 class: goldfish     prob: 0.613 index: 29
+9 class: porcupine    prob: 0.913 index: 65
+10 class: hare         prob: 0.884 index: 34
+11 class: hedgehog     prob: 0.36 index: 35
+Counter({35: 5, 56: 1, 30: 1, 43: 1, 29: 1, 65: 1, 34: 1})
+hedgehog 正确率:0.455
+1 class: hippopotamus   prob: 0.954 index: 36
+2 class: pig          prob: 0.564 index: 63
+3 class: rhinoceros   prob: 0.833 index: 70
+4 class: ox           prob: 0.461 index: 57
+5 class: squid        prob: 0.75 index: 78
+6 class: hippopotamus   prob: 0.205 index: 36
+7 class: donkey       prob: 0.272 index: 20
+8 class: hippopotamus   prob: 0.99 index: 36
+9 class: swan         prob: 0.658 index: 81
+10 class: turtle       prob: 0.759 index: 84
+11 class: lizard       prob: 0.888 index: 47
+Counter({36: 3, 63: 1, 70: 1, 57: 1, 78: 1, 20: 1, 81: 1, 84: 1, 47: 1})
+hippopotamus 正确率:0.273
+1 class: sparrow      prob: 0.643 index: 77
+2 class: panda        prob: 0.563 index: 59
+3 class: snake        prob: 0.361 index: 76
+4 class: pigeon       prob: 0.681 index: 64
+5 class: panda        prob: 0.587 index: 59
+6 class: owl          prob: 0.66 index: 56
+7 class: sparrow      prob: 0.348 index: 77
+8 class: squid        prob: 0.407 index: 78
+9 class: sparrow      prob: 0.628 index: 77
+10 class: squid        prob: 0.938 index: 78
+11 class: squid        prob: 0.995 index: 78
+Counter({77: 3, 78: 3, 59: 2, 76: 1, 64: 1, 56: 1})
+hornbill 正确率:0.0
+1 class: octopus      prob: 0.701 index: 52
+2 class: sparrow      prob: 0.721 index: 77
+3 class: moth         prob: 0.282 index: 50
+4 class: jellyfish    prob: 0.617 index: 41
+5 class: horse        prob: 0.899 index: 38
+6 class: elephant     prob: 0.598 index: 24
+7 class: ox           prob: 0.41 index: 57
+8 class: octopus      prob: 0.982 index: 52
+9 class: elephant     prob: 0.673 index: 24
+10 class: turtle       prob: 0.293 index: 84
+11 class: kangaroo     prob: 0.159 index: 42
+Counter({52: 2, 24: 2, 77: 1, 50: 1, 41: 1, 38: 1, 57: 1, 84: 1, 42: 1})
+horse 正确率:0.0909
+1 class: dragonfly    prob: 0.528 index: 21
+2 class: hummingbird   prob: 0.973 index: 39
+3 class: hummingbird   prob: 0.998 index: 39
+4 class: hummingbird   prob: 1.0 index: 39
+5 class: dragonfly    prob: 0.649 index: 21
+6 class: lizard       prob: 0.414 index: 47
+7 class: hummingbird   prob: 0.977 index: 39
+8 class: dragonfly    prob: 0.936 index: 21
+9 class: hummingbird   prob: 0.982 index: 39
+10 class: hummingbird   prob: 0.931 index: 39
+11 class: hummingbird   prob: 0.901 index: 39
+Counter({39: 7, 21: 3, 47: 1})
+hummingbird 正确率:0.636
+1 class: hyena        prob: 1.0 index: 40
+2 class: hyena        prob: 1.0 index: 40
+3 class: hyena        prob: 0.957 index: 40
+4 class: hyena        prob: 0.979 index: 40
+5 class: hyena        prob: 0.679 index: 40
+6 class: hyena        prob: 1.0 index: 40
+7 class: hyena        prob: 0.999 index: 40
+8 class: antelope     prob: 0.618 index: 0
+9 class: hyena        prob: 0.995 index: 40
+10 class: bat          prob: 0.285 index: 2
+11 class: hyena        prob: 1.0 index: 40
+Counter({40: 9, 0: 1, 2: 1})
+hyena 正确率:0.818
+1 class: jellyfish    prob: 1.0 index: 41
+2 class: jellyfish    prob: 0.838 index: 41
+3 class: jellyfish    prob: 0.962 index: 41
+4 class: squid        prob: 0.776 index: 78
+5 class: squid        prob: 0.81 index: 78
+6 class: jellyfish    prob: 0.995 index: 41
+7 class: jellyfish    prob: 0.993 index: 41
+8 class: fly          prob: 0.889 index: 26
+9 class: jellyfish    prob: 0.863 index: 41
+10 class: jellyfish    prob: 0.987 index: 41
+11 class: shark        prob: 0.963 index: 74
+Counter({41: 7, 78: 2, 26: 1, 74: 1})
+jellyfish 正确率:0.636
+1 class: kangaroo     prob: 1.0 index: 42
+2 class: kangaroo     prob: 1.0 index: 42
+3 class: squid        prob: 0.578 index: 78
+4 class: kangaroo     prob: 0.895 index: 42
+5 class: fox          prob: 0.557 index: 27
+6 class: kangaroo     prob: 0.904 index: 42
+7 class: kangaroo     prob: 0.867 index: 42
+8 class: kangaroo     prob: 0.774 index: 42
+9 class: kangaroo     prob: 0.445 index: 42
+10 class: porcupine    prob: 0.283 index: 65
+11 class: kangaroo     prob: 0.989 index: 42
+Counter({42: 8, 78: 1, 27: 1, 65: 1})
+kangaroo 正确率:0.727
+1 class: sparrow      prob: 0.826 index: 77
+2 class: koala        prob: 0.977 index: 43
+3 class: koala        prob: 0.961 index: 43
+4 class: koala        prob: 0.999 index: 43
+5 class: kangaroo     prob: 0.323 index: 42
+6 class: koala        prob: 0.54 index: 43
+7 class: koala        prob: 0.723 index: 43
+8 class: shark        prob: 0.575 index: 74
+9 class: koala        prob: 0.894 index: 43
+10 class: kangaroo     prob: 0.9 index: 42
+11 class: possum       prob: 0.417 index: 66
+Counter({43: 6, 42: 2, 77: 1, 74: 1, 66: 1})
+koala 正确率:0.545
+1 class: caterpillar   prob: 0.484 index: 10
+2 class: ladybugs     prob: 0.971 index: 44
+3 class: ladybugs     prob: 0.345 index: 44
+4 class: ladybugs     prob: 1.0 index: 44
+5 class: fly          prob: 0.282 index: 26
+6 class: caterpillar   prob: 0.425 index: 10
+7 class: ladybugs     prob: 0.921 index: 44
+8 class: bee          prob: 0.872 index: 4
+9 class: ladybugs     prob: 0.603 index: 44
+10 class: ladybugs     prob: 0.92 index: 44
+11 class: porcupine    prob: 0.625 index: 65
+Counter({44: 6, 10: 2, 26: 1, 4: 1, 65: 1})
+ladybugs 正确率:0.545
+1 class: lizard       prob: 0.992 index: 47
+2 class: hyena        prob: 0.9 index: 40
+3 class: seal         prob: 0.292 index: 73
+4 class: sandpiper    prob: 0.338 index: 71
+5 class: leopard      prob: 0.397 index: 45
+6 class: leopard      prob: 1.0 index: 45
+7 class: leopard      prob: 0.715 index: 45
+8 class: sandpiper    prob: 0.999 index: 71
+9 class: seal         prob: 0.328 index: 73
+10 class: lizard       prob: 0.24 index: 47
+11 class: owl          prob: 0.355 index: 56
+Counter({45: 3, 47: 2, 73: 2, 71: 2, 40: 1, 56: 1})
+leopard 正确率:0.273
+1 class: lion         prob: 0.298 index: 46
+2 class: lion         prob: 0.823 index: 46
+3 class: lion         prob: 0.483 index: 46
+4 class: lion         prob: 0.813 index: 46
+5 class: octopus      prob: 0.724 index: 52
+6 class: lion         prob: 0.83 index: 46
+7 class: jellyfish    prob: 0.614 index: 41
+8 class: lion         prob: 0.995 index: 46
+9 class: porcupine    prob: 0.362 index: 65
+10 class: sandpiper    prob: 0.692 index: 71
+11 class: fly          prob: 0.296 index: 26
+Counter({46: 6, 52: 1, 41: 1, 65: 1, 71: 1, 26: 1})
+lion 正确率:0.545
+1 class: dragonfly    prob: 0.942 index: 21
+2 class: fly          prob: 0.441 index: 26
+3 class: lizard       prob: 0.978 index: 47
+4 class: snake        prob: 0.297 index: 76
+5 class: lizard       prob: 0.514 index: 47
+6 class: lizard       prob: 1.0 index: 47
+7 class: cockroach    prob: 0.379 index: 12
+8 class: turtle       prob: 0.523 index: 84
+9 class: lizard       prob: 0.464 index: 47
+10 class: lizard       prob: 0.996 index: 47
+11 class: grasshopper   prob: 0.929 index: 32
+Counter({47: 5, 21: 1, 26: 1, 76: 1, 12: 1, 84: 1, 32: 1})
+lizard 正确率:0.455
+1 class: bee          prob: 0.781 index: 4
+2 class: lizard       prob: 0.332 index: 47
+3 class: moth         prob: 0.985 index: 50
+4 class: moth         prob: 0.907 index: 50
+5 class: squid        prob: 0.766 index: 78
+6 class: moth         prob: 0.626 index: 50
+7 class: lizard       prob: 0.434 index: 47
+8 class: starfish     prob: 0.43 index: 80
+9 class: moth         prob: 0.985 index: 50
+10 class: mouse        prob: 0.468 index: 51
+11 class: seahorse     prob: 0.802 index: 72
+Counter({50: 4, 47: 2, 4: 1, 78: 1, 80: 1, 51: 1, 72: 1})
+lobster 正确率:0.0
+1 class: fly          prob: 0.717 index: 26
+2 class: mosquito     prob: 0.995 index: 49
+3 class: mosquito     prob: 0.984 index: 49
+4 class: mosquito     prob: 1.0 index: 49
+5 class: fly          prob: 0.945 index: 26
+6 class: grasshopper   prob: 0.643 index: 32
+7 class: mosquito     prob: 0.558 index: 49
+8 class: mosquito     prob: 0.968 index: 49
+9 class: mosquito     prob: 0.855 index: 49
+10 class: mosquito     prob: 1.0 index: 49
+11 class: mosquito     prob: 0.997 index: 49
+Counter({49: 8, 26: 2, 32: 1})
+mosquito 正确率:0.727
+1 class: moth         prob: 1.0 index: 50
+2 class: woodpecker   prob: 0.688 index: 88
+3 class: moth         prob: 0.986 index: 50
+4 class: moth         prob: 0.801 index: 50
+5 class: fly          prob: 0.353 index: 26
+6 class: fly          prob: 0.47 index: 26
+7 class: woodpecker   prob: 0.248 index: 88
+8 class: moth         prob: 0.433 index: 50
+9 class: sparrow      prob: 0.501 index: 77
+10 class: squid        prob: 0.952 index: 78
+11 class: grasshopper   prob: 0.575 index: 32
+Counter({50: 4, 88: 2, 26: 2, 77: 1, 78: 1, 32: 1})
+moth 正确率:0.364
+1 class: mouse        prob: 0.818 index: 51
+2 class: mouse        prob: 0.943 index: 51
+3 class: mouse        prob: 0.726 index: 51
+4 class: rat          prob: 0.57 index: 68
+5 class: mouse        prob: 0.593 index: 51
+6 class: rat          prob: 0.502 index: 68
+7 class: mouse        prob: 0.406 index: 51
+8 class: mouse        prob: 0.604 index: 51
+9 class: mouse        prob: 0.619 index: 51
+10 class: mouse        prob: 0.559 index: 51
+11 class: octopus      prob: 0.311 index: 52
+12 class: hamster      prob: 0.776 index: 33
+13 class: mouse        prob: 0.494 index: 51
+14 class: mouse        prob: 0.571 index: 51
+15 class: mouse        prob: 0.627 index: 51
+Counter({51: 11, 68: 2, 52: 1, 33: 1})
+mouse 正确率:0.733
+1 class: dragonfly    prob: 0.966 index: 21
+2 class: octopus      prob: 0.907 index: 52
+3 class: octopus      prob: 0.984 index: 52
+4 class: octopus      prob: 0.976 index: 52
+5 class: squid        prob: 0.521 index: 78
+6 class: jellyfish    prob: 0.549 index: 41
+7 class: cockroach    prob: 0.601 index: 12
+8 class: squid        prob: 0.544 index: 78
+9 class: squid        prob: 0.553 index: 78
+10 class: moth         prob: 0.999 index: 50
+11 class: octopus      prob: 0.963 index: 52
+Counter({52: 4, 78: 3, 21: 1, 41: 1, 12: 1, 50: 1})
+octopus 正确率:0.364
+1 class: squid        prob: 0.429 index: 78
+2 class: squid        prob: 0.576 index: 78
+3 class: okapi        prob: 1.0 index: 53
+4 class: okapi        prob: 0.931 index: 53
+5 class: okapi        prob: 0.994 index: 53
+6 class: okapi        prob: 0.99 index: 53
+7 class: okapi        prob: 0.786 index: 53
+8 class: okapi        prob: 0.295 index: 53
+9 class: squid        prob: 0.302 index: 78
+10 class: horse        prob: 0.375 index: 38
+11 class: okapi        prob: 0.987 index: 53
+Counter({53: 7, 78: 3, 38: 1})
+okapi 正确率:0.636
+1 class: orangutan    prob: 0.765 index: 54
+2 class: orangutan    prob: 0.999 index: 54
+3 class: orangutan    prob: 1.0 index: 54
+4 class: orangutan    prob: 0.987 index: 54
+5 class: orangutan    prob: 0.986 index: 54
+6 class: orangutan    prob: 0.998 index: 54
+7 class: orangutan    prob: 0.203 index: 54
+8 class: kangaroo     prob: 0.474 index: 42
+9 class: turtle       prob: 0.189 index: 84
+10 class: lizard       prob: 0.507 index: 47
+11 class: orangutan    prob: 1.0 index: 54
+Counter({54: 8, 42: 1, 84: 1, 47: 1})
+orangutan 正确率:0.727
+1 class: elephant     prob: 0.533 index: 24
+2 class: sandpiper    prob: 0.966 index: 71
+3 class: otter        prob: 0.998 index: 55
+4 class: hippopotamus   prob: 0.413 index: 36
+5 class: otter        prob: 1.0 index: 55
+6 class: hare         prob: 0.539 index: 34
+7 class: hyena        prob: 0.398 index: 40
+8 class: antelope     prob: 0.186 index: 0
+9 class: otter        prob: 1.0 index: 55
+10 class: seal         prob: 0.24 index: 73
+11 class: swan         prob: 0.757 index: 81
+Counter({55: 3, 24: 1, 71: 1, 36: 1, 34: 1, 40: 1, 0: 1, 73: 1, 81: 1})
+otter 正确率:0.273
+1 class: sparrow      prob: 0.714 index: 77
+2 class: owl          prob: 0.961 index: 56
+3 class: moth         prob: 0.699 index: 50
+4 class: dragonfly    prob: 0.664 index: 21
+5 class: hare         prob: 0.227 index: 34
+6 class: owl          prob: 0.577 index: 56
+7 class: lizard       prob: 0.634 index: 47
+8 class: cat          prob: 0.827 index: 9
+9 class: sparrow      prob: 0.483 index: 77
+10 class: woodpecker   prob: 0.704 index: 88
+11 class: lizard       prob: 0.633 index: 47
+Counter({77: 2, 56: 2, 47: 2, 50: 1, 21: 1, 34: 1, 9: 1, 88: 1})
+owl 正确率:0.182
+1 class: boar         prob: 0.57 index: 7
+2 class: squid        prob: 0.102 index: 78
+3 class: moth         prob: 0.521 index: 50
+4 class: turtle       prob: 0.476 index: 84
+5 class: lizard       prob: 0.374 index: 47
+6 class: pigeon       prob: 0.218 index: 64
+7 class: ox           prob: 1.0 index: 57
+8 class: boar         prob: 0.522 index: 7
+9 class: ox           prob: 0.997 index: 57
+10 class: grasshopper   prob: 0.805 index: 32
+11 class: hamster      prob: 0.317 index: 33
+Counter({7: 2, 57: 2, 78: 1, 50: 1, 84: 1, 47: 1, 64: 1, 32: 1, 33: 1})
+ox 正确率:0.182
+1 class: hamster      prob: 0.551 index: 33
+2 class: oyster       prob: 0.52 index: 58
+3 class: squid        prob: 0.59 index: 78
+4 class: sandpiper    prob: 0.247 index: 71
+5 class: squid        prob: 0.441 index: 78
+6 class: hamster      prob: 0.563 index: 33
+7 class: oyster       prob: 0.477 index: 58
+8 class: oyster       prob: 0.25 index: 58
+9 class: oyster       prob: 0.997 index: 58
+10 class: elephant     prob: 0.267 index: 24
+11 class: cockroach    prob: 0.443 index: 12
+Counter({58: 4, 33: 2, 78: 2, 71: 1, 24: 1, 12: 1})
+oyster 正确率:0.364
+1 class: mouse        prob: 0.537 index: 51
+2 class: possum       prob: 0.495 index: 66
+3 class: panda        prob: 0.855 index: 59
+4 class: jellyfish    prob: 0.43 index: 41
+5 class: panda        prob: 0.489 index: 59
+6 class: jellyfish    prob: 0.492 index: 41
+7 class: fox          prob: 0.483 index: 27
+8 class: swan         prob: 0.193 index: 81
+9 class: jellyfish    prob: 0.397 index: 41
+10 class: hamster      prob: 0.219 index: 33
+11 class: panda        prob: 0.375 index: 59
+Counter({59: 3, 41: 3, 51: 1, 66: 1, 27: 1, 81: 1, 33: 1})
+panda 正确率:0.273
+1 class: jellyfish    prob: 0.456 index: 41
+2 class: parrot       prob: 0.48 index: 60
+3 class: dragonfly    prob: 0.653 index: 21
+4 class: dragonfly    prob: 0.399 index: 21
+5 class: parrot       prob: 0.648 index: 60
+6 class: parrot       prob: 0.762 index: 60
+7 class: caterpillar   prob: 0.99 index: 10
+8 class: turtle       prob: 0.702 index: 84
+9 class: caterpillar   prob: 0.643 index: 10
+10 class: crow         prob: 0.332 index: 16
+11 class: pelecaniformes   prob: 0.433 index: 61
+Counter({60: 3, 21: 2, 10: 2, 41: 1, 84: 1, 16: 1, 61: 1})
+parrot 正确率:0.273
+1 class: pelecaniformes   prob: 0.779 index: 61
+2 class: turtle       prob: 0.754 index: 84
+3 class: pelecaniformes   prob: 0.493 index: 61
+4 class: dragonfly    prob: 0.609 index: 21
+5 class: sandpiper    prob: 0.729 index: 71
+6 class: squid        prob: 0.822 index: 78
+7 class: squid        prob: 0.89 index: 78
+8 class: porcupine    prob: 0.657 index: 65
+9 class: sandpiper    prob: 0.48 index: 71
+10 class: pelecaniformes   prob: 0.493 index: 61
+11 class: hare         prob: 0.441 index: 34
+Counter({61: 3, 71: 2, 78: 2, 84: 1, 21: 1, 65: 1, 34: 1})
+pelecaniformes 正确率:0.273
+1 class: shark        prob: 0.735 index: 74
+2 class: goose        prob: 0.308 index: 30
+3 class: shark        prob: 0.424 index: 74
+4 class: octopus      prob: 0.931 index: 52
+5 class: hummingbird   prob: 0.569 index: 39
+6 class: kangaroo     prob: 0.313 index: 42
+7 class: squid        prob: 0.442 index: 78
+8 class: mouse        prob: 0.708 index: 51
+9 class: penguin      prob: 0.535 index: 62
+10 class: fly          prob: 0.542 index: 26
+11 class: lizard       prob: 0.661 index: 47
+Counter({74: 2, 30: 1, 52: 1, 39: 1, 42: 1, 78: 1, 51: 1, 62: 1, 26: 1, 47: 1})
+penguin 正确率:0.0909
+1 class: pig          prob: 0.594 index: 63
+2 class: coyote       prob: 0.477 index: 14
+3 class: fly          prob: 0.894 index: 26
+4 class: jellyfish    prob: 0.338 index: 41
+5 class: rat          prob: 0.821 index: 68
+6 class: porcupine    prob: 0.735 index: 65
+7 class: pig          prob: 0.999 index: 63
+8 class: porcupine    prob: 0.276 index: 65
+9 class: donkey       prob: 0.284 index: 20
+10 class: hyena        prob: 0.921 index: 40
+11 class: squid        prob: 0.381 index: 78
+Counter({63: 2, 65: 2, 14: 1, 26: 1, 41: 1, 68: 1, 20: 1, 40: 1, 78: 1})
+pig 正确率:0.182
+1 class: squid        prob: 0.219 index: 78
+2 class: squid        prob: 0.924 index: 78
+3 class: pigeon       prob: 0.994 index: 64
+4 class: hare         prob: 0.342 index: 34
+5 class: pigeon       prob: 0.995 index: 64
+6 class: squid        prob: 0.83 index: 78
+7 class: sparrow      prob: 0.52 index: 77
+8 class: squid        prob: 0.375 index: 78
+9 class: pigeon       prob: 0.844 index: 64
+10 class: squid        prob: 0.385 index: 78
+11 class: pigeon       prob: 1.0 index: 64
+Counter({78: 5, 64: 4, 34: 1, 77: 1})
+pigeon 正确率:0.364
+1 class: porcupine    prob: 0.997 index: 65
+2 class: porcupine    prob: 0.973 index: 65
+3 class: porcupine    prob: 0.922 index: 65
+4 class: porcupine    prob: 0.489 index: 65
+5 class: porcupine    prob: 0.534 index: 65
+6 class: porcupine    prob: 0.995 index: 65
+7 class: porcupine    prob: 0.999 index: 65
+8 class: porcupine    prob: 0.887 index: 65
+9 class: porcupine    prob: 0.521 index: 65
+10 class: porcupine    prob: 0.694 index: 65
+Counter({65: 10})
+porcupine 正确率:1.0
+1 class: possum       prob: 0.732 index: 66
+2 class: possum       prob: 0.649 index: 66
+3 class: possum       prob: 0.519 index: 66
+4 class: porcupine    prob: 0.251 index: 65
+5 class: possum       prob: 0.951 index: 66
+6 class: squid        prob: 0.271 index: 78
+7 class: lizard       prob: 0.957 index: 47
+8 class: orangutan    prob: 0.928 index: 54
+9 class: possum       prob: 0.482 index: 66
+10 class: possum       prob: 0.401 index: 66
+11 class: squid        prob: 0.447 index: 78
+Counter({66: 6, 78: 2, 65: 1, 47: 1, 54: 1})
+possum 正确率:0.545
+1 class: raccoon      prob: 1.0 index: 67
+2 class: wombat       prob: 0.352 index: 87
+3 class: raccoon      prob: 0.386 index: 67
+4 class: hyena        prob: 0.457 index: 40
+5 class: hamster      prob: 0.722 index: 33
+6 class: kangaroo     prob: 0.437 index: 42
+7 class: mouse        prob: 0.925 index: 51
+8 class: squid        prob: 0.288 index: 78
+9 class: cat          prob: 0.49 index: 9
+10 class: raccoon      prob: 0.528 index: 67
+11 class: cat          prob: 0.916 index: 9
+Counter({67: 3, 9: 2, 87: 1, 40: 1, 33: 1, 42: 1, 51: 1, 78: 1})
+raccoon 正确率:0.273
+1 class: fly          prob: 0.509 index: 26
+2 class: jellyfish    prob: 0.329 index: 41
+3 class: mouse        prob: 0.314 index: 51
+4 class: rat          prob: 0.556 index: 68
+5 class: rat          prob: 0.633 index: 68
+6 class: rat          prob: 0.505 index: 68
+7 class: hamster      prob: 0.365 index: 33
+8 class: shark        prob: 0.306 index: 74
+9 class: squid        prob: 0.568 index: 78
+10 class: rat          prob: 0.945 index: 68
+11 class: squid        prob: 0.383 index: 78
+Counter({68: 4, 78: 2, 26: 1, 41: 1, 51: 1, 33: 1, 74: 1})
+rat 正确率:0.364
+1 class: squid        prob: 0.362 index: 78
+2 class: reindeer     prob: 0.962 index: 69
+3 class: squid        prob: 0.362 index: 78
+4 class: reindeer     prob: 0.985 index: 69
+5 class: reindeer     prob: 0.995 index: 69
+6 class: sandpiper    prob: 0.886 index: 71
+7 class: reindeer     prob: 0.984 index: 69
+8 class: coyote       prob: 0.9 index: 14
+9 class: coyote       prob: 0.743 index: 14
+10 class: squid        prob: 0.448 index: 78
+11 class: squid        prob: 0.863 index: 78
+Counter({78: 4, 69: 4, 14: 2, 71: 1})
+reindeer 正确率:0.364
+1 class: elephant     prob: 0.502 index: 24
+2 class: squid        prob: 0.313 index: 78
+3 class: elephant     prob: 0.47 index: 24
+4 class: rhinoceros   prob: 0.518 index: 70
+5 class: rhinoceros   prob: 0.722 index: 70
+6 class: rhinoceros   prob: 0.972 index: 70
+7 class: rhinoceros   prob: 0.981 index: 70
+8 class: rhinoceros   prob: 1.0 index: 70
+9 class: rhinoceros   prob: 0.993 index: 70
+10 class: rhinoceros   prob: 1.0 index: 70
+Counter({70: 7, 24: 2, 78: 1})
+rhinoceros 正确率:0.7
+1 class: sandpiper    prob: 1.0 index: 71
+2 class: sandpiper    prob: 0.732 index: 71
+3 class: sandpiper    prob: 1.0 index: 71
+4 class: sandpiper    prob: 0.97 index: 71
+5 class: sandpiper    prob: 1.0 index: 71
+6 class: sandpiper    prob: 0.965 index: 71
+7 class: sandpiper    prob: 1.0 index: 71
+8 class: sandpiper    prob: 1.0 index: 71
+9 class: sandpiper    prob: 1.0 index: 71
+10 class: sandpiper    prob: 1.0 index: 71
+11 class: sandpiper    prob: 1.0 index: 71
+Counter({71: 11})
+sandpiper 正确率:1.0
+1 class: squid        prob: 0.776 index: 78
+2 class: seahorse     prob: 0.989 index: 72
+3 class: seahorse     prob: 0.372 index: 72
+4 class: possum       prob: 0.272 index: 66
+5 class: lizard       prob: 0.798 index: 47
+6 class: seahorse     prob: 1.0 index: 72
+7 class: seahorse     prob: 0.999 index: 72
+8 class: seahorse     prob: 0.85 index: 72
+9 class: seahorse     prob: 0.695 index: 72
+10 class: squid        prob: 0.837 index: 78
+11 class: pigeon       prob: 0.322 index: 64
+Counter({72: 6, 78: 2, 66: 1, 47: 1, 64: 1})
+seahorse 正确率:0.545
+1 class: seal         prob: 0.353 index: 73
+2 class: seal         prob: 0.852 index: 73
+3 class: squid        prob: 0.565 index: 78
+4 class: seal         prob: 0.383 index: 73
+5 class: seal         prob: 0.987 index: 73
+6 class: squid        prob: 0.517 index: 78
+7 class: reindeer     prob: 0.262 index: 69
+8 class: jellyfish    prob: 0.758 index: 41
+9 class: sandpiper    prob: 0.332 index: 71
+10 class: jellyfish    prob: 0.726 index: 41
+11 class: seal         prob: 0.763 index: 73
+Counter({73: 5, 78: 2, 41: 2, 69: 1, 71: 1})
+seal 正确率:0.455
+1 class: shark        prob: 0.707 index: 74
+2 class: shark        prob: 0.722 index: 74
+3 class: shark        prob: 0.96 index: 74
+4 class: squid        prob: 0.564 index: 78
+5 class: sandpiper    prob: 0.592 index: 71
+6 class: squid        prob: 0.998 index: 78
+7 class: dolphin      prob: 0.49 index: 19
+8 class: squid        prob: 0.944 index: 78
+9 class: sandpiper    prob: 0.586 index: 71
+10 class: shark        prob: 0.971 index: 74
+11 class: squid        prob: 0.869 index: 78
+Counter({74: 4, 78: 4, 71: 2, 19: 1})
+shark 正确率:0.364
+1 class: squid        prob: 0.726 index: 78
+2 class: kangaroo     prob: 0.305 index: 42
+3 class: sheep        prob: 0.868 index: 75
+4 class: sheep        prob: 0.943 index: 75
+5 class: hare         prob: 0.435 index: 34
+6 class: sheep        prob: 1.0 index: 75
+7 class: rhinoceros   prob: 0.739 index: 70
+8 class: goose        prob: 0.521 index: 30
+9 class: ox           prob: 0.704 index: 57
+10 class: ox           prob: 0.514 index: 57
+11 class: squid        prob: 0.887 index: 78
+Counter({75: 3, 78: 2, 57: 2, 42: 1, 34: 1, 70: 1, 30: 1})
+sheep 正确率:0.273
+1 class: snake        prob: 0.897 index: 76
+2 class: turtle       prob: 0.671 index: 84
+3 class: hummingbird   prob: 0.495 index: 39
+4 class: snake        prob: 0.334 index: 76
+5 class: hummingbird   prob: 0.801 index: 39
+6 class: snake        prob: 0.637 index: 76
+7 class: sparrow      prob: 0.928 index: 77
+8 class: grasshopper   prob: 0.341 index: 32
+9 class: turtle       prob: 0.539 index: 84
+10 class: squid        prob: 0.432 index: 78
+11 class: turtle       prob: 0.416 index: 84
+Counter({76: 3, 84: 3, 39: 2, 77: 1, 32: 1, 78: 1})
+snake 正确率:0.273
+1 class: sandpiper    prob: 0.928 index: 71
+2 class: sparrow      prob: 1.0 index: 77
+3 class: sparrow      prob: 0.994 index: 77
+4 class: sparrow      prob: 0.995 index: 77
+5 class: sparrow      prob: 0.674 index: 77
+6 class: sparrow      prob: 0.992 index: 77
+7 class: sparrow      prob: 0.981 index: 77
+8 class: grasshopper   prob: 0.347 index: 32
+9 class: sparrow      prob: 0.998 index: 77
+10 class: sparrow      prob: 1.0 index: 77
+11 class: sparrow      prob: 0.999 index: 77
+Counter({77: 9, 71: 1, 32: 1})
+sparrow 正确率:0.818
+1 class: squid        prob: 0.653 index: 78
+2 class: moth         prob: 0.546 index: 50
+3 class: squid        prob: 1.0 index: 78
+4 class: starfish     prob: 0.597 index: 80
+5 class: squid        prob: 0.466 index: 78
+6 class: squid        prob: 0.982 index: 78
+7 class: shark        prob: 0.2 index: 74
+8 class: starfish     prob: 0.345 index: 80
+9 class: squid        prob: 0.954 index: 78
+10 class: squid        prob: 0.965 index: 78
+11 class: shark        prob: 0.426 index: 74
+Counter({78: 6, 80: 2, 74: 2, 50: 1})
+squid 正确率:0.545
+1 class: squid        prob: 0.837 index: 78
+2 class: possum       prob: 0.982 index: 66
+3 class: dragonfly    prob: 0.391 index: 21
+4 class: hyena        prob: 0.388 index: 40
+5 class: squirrel     prob: 0.933 index: 79
+6 class: hare         prob: 0.274 index: 34
+7 class: mouse        prob: 0.925 index: 51
+8 class: squirrel     prob: 0.795 index: 79
+9 class: squirrel     prob: 0.875 index: 79
+10 class: orangutan    prob: 0.419 index: 54
+11 class: hare         prob: 0.989 index: 34
+Counter({79: 3, 34: 2, 78: 1, 66: 1, 21: 1, 40: 1, 51: 1, 54: 1})
+squirrel 正确率:0.273
+1 class: jellyfish    prob: 0.845 index: 41
+2 class: starfish     prob: 0.902 index: 80
+3 class: starfish     prob: 0.354 index: 80
+4 class: starfish     prob: 1.0 index: 80
+5 class: dragonfly    prob: 0.726 index: 21
+6 class: hare         prob: 0.918 index: 34
+7 class: jellyfish    prob: 0.865 index: 41
+8 class: starfish     prob: 1.0 index: 80
+9 class: starfish     prob: 0.984 index: 80
+10 class: squid        prob: 1.0 index: 78
+11 class: kangaroo     prob: 0.586 index: 42
+Counter({80: 5, 41: 2, 21: 1, 34: 1, 78: 1, 42: 1})
+starfish 正确率:0.455
+1 class: swan         prob: 0.87 index: 81
+2 class: swan         prob: 0.817 index: 81
+3 class: swan         prob: 0.99 index: 81
+4 class: swan         prob: 0.997 index: 81
+5 class: goose        prob: 0.808 index: 30
+6 class: mouse        prob: 0.439 index: 51
+7 class: swan         prob: 0.862 index: 81
+8 class: shark        prob: 0.288 index: 74
+9 class: swan         prob: 0.962 index: 81
+10 class: swan         prob: 0.972 index: 81
+11 class: shark        prob: 0.343 index: 74
+Counter({81: 7, 74: 2, 30: 1, 51: 1})
+swan 正确率:0.636
+1 class: tiger        prob: 1.0 index: 82
+2 class: tiger        prob: 0.993 index: 82
+3 class: tiger        prob: 0.998 index: 82
+4 class: owl          prob: 0.991 index: 56
+5 class: tiger        prob: 1.0 index: 82
+6 class: tiger        prob: 0.94 index: 82
+7 class: tiger        prob: 0.57 index: 82
+8 class: tiger        prob: 0.999 index: 82
+9 class: cat          prob: 0.995 index: 9
+10 class: hyena        prob: 0.227 index: 40
+Counter({82: 7, 56: 1, 9: 1, 40: 1})
+tiger 正确率:0.7
+1 class: porcupine    prob: 0.283 index: 65
+2 class: fly          prob: 0.557 index: 26
+3 class: fly          prob: 0.307 index: 26
+4 class: turkey       prob: 0.542 index: 83
+5 class: squid        prob: 0.547 index: 78
+6 class: porcupine    prob: 0.298 index: 65
+7 class: jellyfish    prob: 0.616 index: 41
+8 class: jellyfish    prob: 0.523 index: 41
+9 class: crab         prob: 0.76 index: 15
+10 class: oyster       prob: 0.181 index: 58
+11 class: moth         prob: 0.921 index: 50
+Counter({65: 2, 26: 2, 41: 2, 83: 1, 78: 1, 15: 1, 58: 1, 50: 1})
+turkey 正确率:0.0909
+1 class: grasshopper   prob: 0.873 index: 32
+2 class: turtle       prob: 0.668 index: 84
+3 class: snake        prob: 0.687 index: 76
+4 class: dragonfly    prob: 0.68 index: 21
+5 class: seal         prob: 0.517 index: 73
+6 class: dragonfly    prob: 0.874 index: 21
+7 class: turtle       prob: 0.978 index: 84
+8 class: grasshopper   prob: 0.791 index: 32
+9 class: turtle       prob: 0.738 index: 84
+10 class: turtle       prob: 0.328 index: 84
+11 class: turtle       prob: 0.989 index: 84
+Counter({84: 5, 32: 2, 21: 2, 76: 1, 73: 1})
+turtle 正确率:0.455
+1 class: squid        prob: 0.929 index: 78
+2 class: whale        prob: 0.738 index: 85
+3 class: whale        prob: 0.542 index: 85
+4 class: whale        prob: 0.87 index: 85
+5 class: swan         prob: 0.525 index: 81
+6 class: dolphin      prob: 0.899 index: 19
+7 class: swan         prob: 0.488 index: 81
+8 class: whale        prob: 0.521 index: 85
+9 class: shark        prob: 0.408 index: 74
+10 class: shark        prob: 0.992 index: 74
+11 class: dragonfly    prob: 0.952 index: 21
+Counter({85: 4, 81: 2, 74: 2, 78: 1, 19: 1, 21: 1})
+whale 正确率:0.364
+1 class: wolf         prob: 0.999 index: 86
+2 class: coyote       prob: 0.667 index: 14
+3 class: coyote       prob: 0.761 index: 14
+4 class: donkey       prob: 0.984 index: 20
+5 class: antelope     prob: 0.738 index: 0
+6 class: hare         prob: 0.906 index: 34
+7 class: wolf         prob: 0.618 index: 86
+8 class: kangaroo     prob: 0.188 index: 42
+9 class: boar         prob: 0.461 index: 7
+10 class: antelope     prob: 0.878 index: 0
+11 class: lizard       prob: 0.449 index: 47
+Counter({86: 2, 14: 2, 0: 2, 20: 1, 34: 1, 42: 1, 7: 1, 47: 1})
+wolf 正确率:0.182
+1 class: mouse        prob: 0.321 index: 51
+2 class: wombat       prob: 0.981 index: 87
+3 class: wombat       prob: 0.255 index: 87
+4 class: wombat       prob: 0.878 index: 87
+5 class: rhinoceros   prob: 0.799 index: 70
+6 class: wombat       prob: 0.962 index: 87
+7 class: hippopotamus   prob: 0.345 index: 36
+8 class: porcupine    prob: 0.299 index: 65
+9 class: rhinoceros   prob: 0.221 index: 70
+10 class: hamster      prob: 0.445 index: 33
+11 class: turtle       prob: 0.625 index: 84
+Counter({87: 4, 70: 2, 51: 1, 36: 1, 65: 1, 33: 1, 84: 1})
+wombat 正确率:0.364
+1 class: sparrow      prob: 0.654 index: 77
+2 class: possum       prob: 0.506 index: 66
+3 class: woodpecker   prob: 0.892 index: 88
+4 class: woodpecker   prob: 0.989 index: 88
+5 class: sandpiper    prob: 0.797 index: 71
+6 class: woodpecker   prob: 0.885 index: 88
+7 class: sparrow      prob: 0.984 index: 77
+8 class: hummingbird   prob: 0.549 index: 39
+9 class: woodpecker   prob: 0.761 index: 88
+10 class: sandpiper    prob: 0.856 index: 71
+11 class: woodpecker   prob: 0.984 index: 88
+Counter({88: 5, 77: 2, 71: 2, 66: 1, 39: 1})
+woodpecker 正确率:0.455
+1 class: jellyfish    prob: 0.511 index: 41
+2 class: zebra        prob: 0.427 index: 89
+3 class: lizard       prob: 0.797 index: 47
+4 class: grasshopper   prob: 0.623 index: 32
+5 class: zebra        prob: 0.987 index: 89
+6 class: turtle       prob: 0.901 index: 84
+7 class: zebra        prob: 0.846 index: 89
+8 class: zebra        prob: 0.999 index: 89
+9 class: zebra        prob: 1.0 index: 89
+10 class: lizard       prob: 0.599 index: 47
+11 class: zebra        prob: 0.884 index: 89
+Counter({89: 6, 47: 2, 41: 1, 32: 1, 84: 1})
+zebra 正确率:0.545
+0.39585016835016834
